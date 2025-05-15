@@ -5,8 +5,8 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV](/MaeSliwinskiResume.pdf) in PDF format.
-[Download my visual portfolio](/MaeSliwinskiPortfolio.pdf) in PDF format.
+[Download my CV](/portfolio-mmsliwinski/MaeSliwinskiResume.pdf)
+[Download my visual portfolio](/portfolio-mmsliwinski/MaeSliwinskiPortfolio.pdf)
 
 
 **Email:** [mgs263@cornell.edu](mailto:mgs263@cornell.edu) | | | **Phone:** (716) 474-2548
