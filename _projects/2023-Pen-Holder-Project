@@ -1,0 +1,9 @@
+---
+layout: project
+title: Assistive Pen Holder Device
+description: CAD and Fabrication Project
+technologies: [Autodesk Fusion, 3D Printing (FMD)]
+image: /assets/images/penhold.png
+---
+
+For my engineering project team Cornell Assistive Technologies, we recieved from a local family in Ithaca to adapt a typical pen holder design to be controlled by a thumbscrew. Previously, the design only accomodated a screwdriver design which makes it impossible for people with motor disabilities to change the pen without assistance. This design utalizes a thumbscrew which promotes ease of access and independence of the user.
