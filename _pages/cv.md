@@ -5,8 +5,8 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/Madeline Mae Sliwinski Resume.pdf" | relative_url }}) in PDF format.
-[Download my visual portfolio]({{ "/Madeline Mae Sliwinski Portfolio.pdf" | relative_url }}) in PDF format.
+[Download my CV](/MaeSliwinskiResume.pdf) in PDF format.
+[Download my visual portfolio](/MaeSliwinskiPortfolio.pdf) in PDF format.
 
 
 **Email:** [mgs263@cornell.edu](mailto:mgs263@cornell.edu) | | | **Phone:** (716) 474-2548
